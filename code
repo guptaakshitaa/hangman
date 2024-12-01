@@ -1,5 +1,5 @@
 import random 
-// random allows the user to generate random inputs
+# random allows the user to generate random inputs
 word_list = ["python", "hangman", "programming", "challenge"]
 secret_word = random.choice(word_list)
 
